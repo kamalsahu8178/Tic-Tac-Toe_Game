@@ -16,6 +16,7 @@ This project demonstrates basic front-end development concepts such as DOM manip
 🧠 Simple and readable JavaScript logic
 
 🛠️ Technologies Used
+
 HTML5 – Structure of the game
 
 CSS3 – Styling and layout
