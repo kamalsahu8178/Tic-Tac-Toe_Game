@@ -17,11 +17,11 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 🛠️ Technologies Used
 
-HTML5 – Structure of the game
+**HTML5** – Structure of the game
 
-CSS3 – Styling and layout
+**CSS3** – Styling and layout
 
-JavaScript (ES6) – Game logic and interactivity
+**JavaScript (ES6)** – Game logic and interactivity
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 📂 Project Structure
 📁 Tic-Tac-Toe
@@ -68,8 +68,11 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 📬 Contact
 👤 Name: Kamal sahu
+
 📧 Email: kamalsahu8178@gmail.com
+
 🐙 GitHub: https://github.com/kamalsahu8178
+
 🔗 LinkedIn: https://github.com/kamalsahu8178
 
 ⭐ Support
