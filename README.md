@@ -1,20 +1,28 @@
-# Tic-Tac-Toe_Game
-
 🎮 Tic Tac Toe Game
+
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 This project demonstrates basic front-end development concepts such as DOM manipulation, event handling, and responsive UI design.
 
 🚀 Features
+
 🎯 Two-player gameplay (X vs O)
+
 🏆 Automatic winner detection
+
 🤝 Draw detection when no player wins
+
 🔄 Reset & New Game functionality
+
 🎨 Clean and responsive UI
+
 🧠 Simple and readable JavaScript logic
+
 🛠️ Technologies Used
 
 HTML5 – Structure of the game
+
 CSS3 – Styling and layout
+
 JavaScript (ES6) – Game logic and interactivity
 
 📂 Project Structure
@@ -24,35 +32,60 @@ JavaScript (ES6) – Game logic and interactivity
 │── script.js    # Game logic
 
 🎯 How to Play
+
 Open the game in a web browser
+
 Player O starts the game
+
 Players take turns clicking on empty boxes
+
 The first player to align three symbols (row, column, or diagonal) wins
+
 If all boxes are filled with no winner, the game ends in a draw
+
 Click Reset Game or New Game to play again
 
+📸 Screenshots (Optional)
+
+Add screenshots of your game here to make your repository more attractive.
+
 🌱 What I Learned
+
 DOM selection and manipulation
+
 Handling user events in JavaScript
+
 Implementing game logic using arrays
+
 Writing clean and reusable functions
+
 Improving UI with Flexbox and responsive units
 
 🔮 Future Improvements
+
 Add single-player mode (AI opponent)
+
 Scoreboard for players
+
 Sound effects and animations
+
 Mobile-first UI enhancements
 
 🤝 Contributing
+
 Contributions are welcome!
 Feel free to fork this repository, make improvements, and submit a pull request.
 
 📬 Contact
-👤 Name: Kamal sahu
-📧 Email: Kamalsahu8178@gmail.com
-🐙 GitHub: https://github.com/kamalsahu8178
-🔗 LinkedIn: www.linkedin.com/in/kamal-sahu8178
+
+👤 Name: Your Name
+
+📧 Email: yourname@email.com
+
+🐙 GitHub: https://github.com/yourusername
+
+🔗 LinkedIn: https://linkedin.com/in/yourprofile
 
 ⭐ Support
+
 If you like this project, don’t forget to star ⭐ the repository — it really helps!
